@@ -3,11 +3,11 @@
 #### Project structure
 **MinePlayerStrategy** Interface implemented by **AutoPlayerStrategy**
 
-####How to start the game
+#### How to start the game
 In **MineopolyMain** class, if want to visualize game, set global variable
 **TEST_STRATEGY_WIN_PERCENT** as false; else set it as true to get winning percentage.
 
-####Testing Frameworks
+#### Testing Frameworks
 (1) Junit
 
 (2) Mockito
@@ -23,7 +23,7 @@ In **MineopolyMain** class, if want to visualize game, set global variable
 
 (5) Calculate efficiency of mining each point, then go to the point with highest efficiency.
 
-####Citation
+#### Citation
 (1) Reverse sort Map
 https://stackoverflow.com/questions/11647889/sorting-the-mapkey-value-in-descending-order-based-on-the-value
 
